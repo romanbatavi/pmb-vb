@@ -1,0 +1,14 @@
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\bin\Debug\UAS_Lanjutan.exe
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\bin\Debug\UAS_Lanjutan.pdb
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\bin\Debug\UAS_Lanjutan.xml
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.LoginForm1.resources
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.Resources.resources
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.vbproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.exe
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.xml
+c:\users\roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.pdb
+C:\Users\Roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.FormMaster.resources
+C:\Users\Roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.FormJurusan.resources
+C:\Users\Roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.FormMahasiswa2.resources
+C:\Users\Roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.vbprojResolveAssemblyReference.cache
+C:\Users\Roman\documents\visual studio 2010\Projects\UAS_Lanjutan\UAS_Lanjutan\obj\x86\Debug\UAS_Lanjutan.Form1.resources
